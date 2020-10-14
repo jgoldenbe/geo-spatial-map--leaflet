@@ -1,0 +1,866 @@
+Year,Cause of Death,Number of Deaths,"Age-Adjusted Death Rate per 100,000 Population",Lower 95% Confidence Limit,Upper 95% Confidence Limit
+2000,Salmonella infections,3,,0,0.1
+2001,Salmonella infections,2,,0,0
+2003,Salmonella infections,1,,0,0
+2004,Salmonella infections,1,,0,0
+2007,Salmonella infections,1,,0,0
+2008,Salmonella infections,1,,0,0
+2009,Salmonella infections,1,,0,0
+2010,Salmonella infections,1,,0,0
+2015,Salmonella infections,1,,0,0
+2016,Salmonella infections,1,,0,0
+2011,Shigellosis and amebiasis,1,,0,0
+2013,Shigellosis and amebiasis,1,,0,0
+2017,Shigellosis and amebiasis,1,,0,0
+2000,Tuberculosis,28,0.3,0.2,0.4
+2001,Tuberculosis,25,0.3,0.2,0.4
+2002,Tuberculosis,27,0.3,0.2,0.4
+2003,Tuberculosis,24,0.3,0.2,0.4
+2004,Tuberculosis,24,0.3,0.2,0.4
+2005,Tuberculosis,17,,0.1,0.3
+2006,Tuberculosis,15,,0.1,0.2
+2007,Tuberculosis,17,,0.1,0.3
+2008,Tuberculosis,21,0.2,0.1,0.3
+2009,Tuberculosis,10,,0,0.2
+2010,Tuberculosis,18,,0.1,0.3
+2011,Tuberculosis,14,,0.1,0.2
+2012,Tuberculosis,10,,0,0.2
+2013,Tuberculosis,9,,0,0.2
+2014,Tuberculosis,8,,0,0.1
+2015,Tuberculosis,11,,0,0.2
+2016,Tuberculosis,18,,0.1,0.2
+2017,Tuberculosis,21,0.2,0.1,0.3
+2005,Whooping cough,1,,0,0
+2009,Whooping cough,1,,0,0
+2012,Whooping cough,1,,0,0
+2010,Scarlet fever and erysipelas,1,,0,0
+2011,Scarlet fever and erysipelas,1,,0,0
+2000,Meningococcal infection,5,,0,0.1
+2001,Meningococcal infection,7,,0,0.1
+2002,Meningococcal infection,3,,0,0.1
+2003,Meningococcal infection,6,,0,0.1
+2004,Meningococcal infection,9,,0,0.2
+2005,Meningococcal infection,2,,0,0.1
+2006,Meningococcal infection,2,,0,0.1
+2007,Meningococcal infection,2,,0,0
+2008,Meningococcal infection,2,,0,0
+2009,Meningococcal infection,1,,0,0
+2010,Meningococcal infection,2,,0,0
+2012,Meningococcal infection,1,,0,0
+2013,Meningococcal infection,2,,0,0
+2014,Meningococcal infection,1,,0,0
+2017,Meningococcal infection,1,,0,0
+2000,Septicemia,1745,19.8,18.8,20.7
+2001,Septicemia,1831,20.5,19.6,21.5
+2002,Septicemia,1987,22,21,23
+2003,Septicemia,1904,20.8,19.8,21.7
+2004,Septicemia,1904,20.6,19.7,21.6
+2005,Septicemia,1932,20.7,19.7,21.6
+2006,Septicemia,1871,19.8,18.9,20.8
+2007,Septicemia,1733,18.2,17.3,19.1
+2008,Septicemia,1794,18.5,17.6,19.4
+2009,Septicemia,1747,17.8,16.9,18.7
+2010,Septicemia,1660,16.5,15.7,17.4
+2011,Septicemia,1726,16.7,15.9,17.6
+2012,Septicemia,1672,16,15.1,16.8
+2013,Septicemia,1785,16.8,16,17.7
+2014,Septicemia,1764,16.4,15.5,17.2
+2015,Septicemia,1957,17.8,16.9,18.7
+2016,Septicemia,1925,17.4,16.5,18.2
+2017,Septicemia,1897,16.7,15.8,17.5
+2000,Syphilis,2,,0,0
+2001,Syphilis,1,,0,0
+2005,Syphilis,3,,0,0.1
+2006,Syphilis,1,,0,0
+2007,Syphilis,1,,0,0
+2008,Syphilis,1,,0,0
+2009,Syphilis,2,,0,0
+2010,Syphilis,1,,0,0
+2011,Syphilis,2,,0,0
+2014,Syphilis,1,,0,0
+2015,Syphilis,1,,0,0
+2016,Syphilis,2,,0,0
+2017,Syphilis,4,,0,0.1
+2002,Arthropod-borne viral encephalitis,1,,0,0
+2000,Viral hepatitis,171,2,1.6,2.2
+2001,Viral hepatitis,187,2.1,1.8,2.4
+2002,Viral hepatitis,156,1.7,1.5,2
+2003,Viral hepatitis,159,1.8,1.5,2
+2004,Viral hepatitis,167,1.8,1.5,2.1
+2005,Viral hepatitis,147,1.6,1.3,1.8
+2006,Viral hepatitis,195,2,1.7,2.3
+2007,Viral hepatitis,171,1.7,1.5,2
+2008,Viral hepatitis,210,2.1,1.8,2.4
+2009,Viral hepatitis,143,1.4,1.2,1.6
+2010,Viral hepatitis,179,1.7,1.4,2
+2011,Viral hepatitis,186,1.8,1.5,2.1
+2012,Viral hepatitis,191,1.7,1.5,2
+2013,Viral hepatitis,169,1.5,1.3,1.8
+2014,Viral hepatitis,158,1.4,1.2,1.7
+2015,Viral hepatitis,128,1.1,0.9,1.3
+2016,Viral hepatitis,126,1.1,0.9,1.3
+2017,Viral hepatitis,127,1.1,0.9,1.3
+2000,HIV (human immunodeficiency virus) disease,830,9.5,8.9,10.2
+2001,HIV (human immunodeficiency virus) disease,785,8.9,8.3,9.5
+2002,HIV (human immunodeficiency virus) disease,762,8.6,8,9.2
+2003,HIV (human immunodeficiency virus) disease,673,7.5,6.9,8.1
+2004,HIV (human immunodeficiency virus) disease,672,7.5,6.9,8.1
+2005,HIV (human immunodeficiency virus) disease,604,6.6,6.1,7.2
+2006,HIV (human immunodeficiency virus) disease,539,5.9,5.4,6.4
+2007,HIV (human immunodeficiency virus) disease,495,5.3,4.8,5.8
+2008,HIV (human immunodeficiency virus) disease,448,4.8,4.3,5.2
+2009,HIV (human immunodeficiency virus) disease,397,4.2,3.7,4.6
+2010,HIV (human immunodeficiency virus) disease,378,3.9,3.5,4.3
+2011,HIV (human immunodeficiency virus) disease,366,3.7,3.3,4.1
+2012,HIV (human immunodeficiency virus) disease,297,2.9,2.6,3.3
+2013,HIV (human immunodeficiency virus) disease,295,2.8,2.5,3.2
+2014,HIV (human immunodeficiency virus) disease,270,2.6,2.2,2.9
+2015,HIV (human immunodeficiency virus) disease,255,2.4,2.1,2.8
+2016,HIV (human immunodeficiency virus) disease,236,2.2,1.9,2.5
+2017,HIV (human immunodeficiency virus) disease,196,1.8,1.5,2.1
+2000,Malaria,1,,0,0
+2001,Malaria,2,,0,0
+2004,Malaria,1,,0,0
+2014,Malaria,1,,0,0
+2015,Malaria,1,,0,0
+2000,Cancer (malignant neoplasms),18079,205.4,202.3,208.4
+2001,Cancer (malignant neoplasms),18170,204.5,201.4,207.5
+2002,Cancer (malignant neoplasms),17831,198.2,195.2,201.2
+2003,Cancer (malignant neoplasms),17964,197.5,194.5,200.5
+2004,Cancer (malignant neoplasms),17223,187.5,184.6,190.4
+2005,Cancer (malignant neoplasms),17178,185.6,182.7,188.5
+2006,Cancer (malignant neoplasms),17187,183.9,181,186.7
+2007,Cancer (malignant neoplasms),17102,181,178.2,183.9
+2008,Cancer (malignant neoplasms),16879,176,173.3,178.8
+2009,Cancer (malignant neoplasms),16567,170.2,167.5,173
+2010,Cancer (malignant neoplasms),16824,168.9,166.2,171.6
+2011,Cancer (malignant neoplasms),16716,165.8,163.1,168.5
+2012,Cancer (malignant neoplasms),16485,159.7,157,162.3
+2013,Cancer (malignant neoplasms),16319,155.5,153,158.1
+2014,Cancer (malignant neoplasms),16593,155.2,152.6,157.8
+2015,Cancer (malignant neoplasms),16270,149.8,147.2,152.3
+2016,Cancer (malignant neoplasms),16377,148.3,145.8,150.8
+2017,Cancer (malignant neoplasms),16262,144.6,142.1,147.1
+2000,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",536,6.1,5.6,6.6
+2001,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",508,5.7,5.2,6.2
+2002,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",498,5.6,5,6
+2003,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",473,5.2,4.7,5.7
+2004,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",519,5.7,5.2,6.2
+2005,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",486,5.2,4.8,5.7
+2006,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",484,5.2,4.7,5.6
+2007,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",437,4.6,4.2,5.1
+2008,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",473,5,4.5,5.4
+2009,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",477,4.9,4.4,5.4
+2010,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",502,5,4.6,5.5
+2011,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",535,5.3,4.8,5.8
+2012,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",472,4.6,4.1,5
+2013,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",510,4.8,4.3,5.2
+2014,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",546,5.1,4.6,5.6
+2015,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",520,4.8,4.3,5.2
+2016,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",472,4.3,3.8,4.7
+2017,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",475,4.2,3.8,4.6
+2000,Anemias,202,2.3,2,2.6
+2001,Anemias,199,2.2,1.9,2.6
+2002,Anemias,201,2.2,1.9,2.6
+2003,Anemias,197,2.2,1.8,2.5
+2004,Anemias,175,1.9,1.6,2.2
+2005,Anemias,203,2.2,1.9,2.5
+2006,Anemias,153,1.6,1.3,1.9
+2007,Anemias,178,1.9,1.6,2.2
+2008,Anemias,164,1.7,1.4,2
+2009,Anemias,188,1.9,1.6,2.2
+2010,Anemias,150,1.4,1.2,1.7
+2011,Anemias,152,1.5,1.2,1.7
+2012,Anemias,181,1.7,1.4,2
+2013,Anemias,191,1.8,1.5,2.1
+2014,Anemias,178,1.6,1.4,1.9
+2015,Anemias,174,1.6,1.3,1.8
+2016,Anemias,165,1.5,1.3,1.8
+2017,Anemias,179,1.6,1.3,1.8
+2000,Diabetes mellitus,2484,28.2,27,29.3
+2001,Diabetes mellitus,2557,28.7,27.6,29.9
+2002,Diabetes mellitus,2532,28.1,27,29.2
+2003,Diabetes mellitus,2485,27.2,26.1,28.3
+2004,Diabetes mellitus,2599,28.3,27.2,29.4
+2005,Diabetes mellitus,2540,27.4,26.3,28.5
+2006,Diabetes mellitus,2454,26.2,25.1,27.2
+2007,Diabetes mellitus,2330,24.5,23.5,25.6
+2008,Diabetes mellitus,2242,23.2,22.2,24.3
+2009,Diabetes mellitus,1980,20.3,19.4,21.2
+2010,Diabetes mellitus,2098,20.9,19.9,21.8
+2011,Diabetes mellitus,2222,21.9,21,22.9
+2012,Diabetes mellitus,1989,19.2,18.3,20.1
+2013,Diabetes mellitus,2043,19.4,18.4,20.3
+2014,Diabetes mellitus,2062,19.2,18.3,20.1
+2015,Diabetes mellitus,1933,17.7,16.9,18.6
+2016,Diabetes mellitus,1949,17.6,16.8,18.5
+2017,Diabetes mellitus,1908,16.9,16.1,17.8
+2000,Nutritional deficiencies,105,1.2,1,1.4
+2001,Nutritional deficiencies,124,1.4,1.1,1.6
+2002,Nutritional deficiencies,116,1.3,1,1.5
+2003,Nutritional deficiencies,100,1.1,0.9,1.3
+2004,Nutritional deficiencies,93,1,0.8,1.2
+2005,Nutritional deficiencies,91,1,0.8,1.2
+2006,Nutritional deficiencies,61,0.6,0.5,0.8
+2007,Nutritional deficiencies,77,0.8,0.6,1
+2008,Nutritional deficiencies,79,0.8,0.6,1
+2009,Nutritional deficiencies,76,0.8,0.6,0.9
+2010,Nutritional deficiencies,70,0.7,0.5,0.9
+2011,Nutritional deficiencies,61,0.6,0.4,0.7
+2012,Nutritional deficiencies,62,0.6,0.4,0.7
+2013,Nutritional deficiencies,98,0.9,0.7,1.1
+2014,Nutritional deficiencies,105,0.9,0.7,1.1
+2015,Nutritional deficiencies,80,0.7,0.5,0.8
+2016,Nutritional deficiencies,115,1,0.8,1.2
+2017,Nutritional deficiencies,145,1.2,1,1.4
+2000,Meningitis,26,0.3,0.2,0.4
+2001,Meningitis,20,0.2,0.1,0.3
+2002,Meningitis,15,,0.1,0.3
+2003,Meningitis,15,,0.1,0.3
+2004,Meningitis,10,,0,0.2
+2005,Meningitis,6,,0,0.1
+2006,Meningitis,13,,0.1,0.2
+2007,Meningitis,7,,0,0.1
+2008,Meningitis,14,,0.1,0.2
+2009,Meningitis,13,,0.1,0.2
+2010,Meningitis,10,,0,0.2
+2011,Meningitis,14,,0.1,0.2
+2012,Meningitis,11,,0,0.2
+2013,Meningitis,5,,0,0.1
+2014,Meningitis,9,,0,0.2
+2015,Meningitis,9,,0,0.2
+2016,Meningitis,13,,0.1,0.2
+2017,Meningitis,9,,0,0.2
+2000,Parkinson's disease,490,5.5,5,6
+2001,Parkinson's disease,524,5.8,5.3,6.3
+2002,Parkinson's disease,524,5.8,5.3,6.3
+2003,Parkinson's disease,526,5.7,5.2,6.2
+2004,Parkinson's disease,529,5.7,5.2,6.2
+2005,Parkinson's disease,616,6.6,6.1,7.1
+2006,Parkinson's disease,539,5.7,5.2,6.2
+2007,Parkinson's disease,602,6.3,5.8,6.8
+2008,Parkinson's disease,588,6.1,5.6,6.6
+2009,Parkinson's disease,615,6.3,5.8,6.8
+2010,Parkinson's disease,645,6.5,6,7
+2011,Parkinson's disease,667,6.6,6.1,7.2
+2012,Parkinson's disease,633,6.2,5.6,6.7
+2013,Parkinson's disease,703,6.7,6.2,7.2
+2014,Parkinson's disease,751,7,6.5,7.6
+2015,Parkinson's disease,716,6.5,6,7.1
+2016,Parkinson's disease,759,6.9,6.4,7.5
+2017,Parkinson's disease,799,7.2,6.7,7.8
+2000,Alzheimer's disease,1267,14.3,13.5,15.1
+2001,Alzheimer's disease,1376,15.3,14.5,16.1
+2002,Alzheimer's disease,1522,16.7,15.8,17.5
+2003,Alzheimer's disease,1637,17.6,16.7,18.5
+2004,Alzheimer's disease,1713,18.3,17.4,19.2
+2005,Alzheimer's disease,1815,19,18.1,20
+2006,Alzheimer's disease,1649,16.9,16.1,17.8
+2007,Alzheimer's disease,1823,18.4,17.4,19.2
+2008,Alzheimer's disease,1857,18.4,17.5,19.3
+2009,Alzheimer's disease,1874,18.2,17.3,19.1
+2010,Alzheimer's disease,1881,17.6,16.7,18.5
+2011,Alzheimer's disease,1962,18.2,17.3,19.1
+2012,Alzheimer's disease,1883,17,16.2,17.9
+2013,Alzheimer's disease,1812,16.1,15.3,16.9
+2014,Alzheimer's disease,1962,17.2,16.3,18
+2015,Alzheimer's disease,2260,19.5,18.6,20.4
+2016,Alzheimer's disease,2435,20.8,19.8,21.7
+2017,Alzheimer's disease,2830,23.6,22.6,24.6
+2000,Diseases of heart,23740,268.5,265,272
+2001,Diseases of heart,22719,254.1,250.7,257.4
+2002,Diseases of heart,22518,248.4,245,251.7
+2003,Diseases of heart,22064,240,236.7,243.3
+2004,Diseases of heart,20580,222.1,219,225.2
+2005,Diseases of heart,20662,219.6,216.5,222.7
+2006,Diseases of heart,19550,204.8,201.8,207.8
+2007,Diseases of heart,18848,194.3,191.4,197.3
+2008,Diseases of heart,19059,193.1,190.2,196
+2009,Diseases of heart,18480,184.7,181.8,187.5
+2010,Diseases of heart,18739,181.3,178.5,184.1
+2011,Diseases of heart,18340,174.8,172,177.6
+2012,Diseases of heart,18343,170.6,167.8,173.3
+2013,Diseases of heart,18462,169,166.3,171.7
+2014,Diseases of heart,18323,165,162.4,167.7
+2015,Diseases of heart,18649,165.1,162.5,167.8
+2016,Diseases of heart,18598,162.7,160.1,165.3
+2017,Diseases of heart,18843,162.3,159.7,165
+2000,Essential hypertension and hypertensive renal disease,473,5.4,4.9,5.8
+2001,Essential hypertension and hypertensive renal disease,516,5.8,5.3,6.3
+2002,Essential hypertension and hypertensive renal disease,513,5.7,5.2,6.2
+2003,Essential hypertension and hypertensive renal disease,502,5.5,5,6
+2004,Essential hypertension and hypertensive renal disease,542,5.8,5.3,6.4
+2005,Essential hypertension and hypertensive renal disease,601,6.4,5.8,6.9
+2006,Essential hypertension and hypertensive renal disease,557,5.8,5.3,6.3
+2007,Essential hypertension and hypertensive renal disease,595,6.1,5.6,6.6
+2008,Essential hypertension and hypertensive renal disease,641,6.5,6,7
+2009,Essential hypertension and hypertensive renal disease,668,6.6,6.1,7.2
+2010,Essential hypertension and hypertensive renal disease,751,7.2,6.6,7.8
+2011,Essential hypertension and hypertensive renal disease,736,7,6.4,7.5
+2012,Essential hypertension and hypertensive renal disease,881,8.1,7.5,8.7
+2013,Essential hypertension and hypertensive renal disease,846,7.7,7.2,8.3
+2014,Essential hypertension and hypertensive renal disease,709,6.3,5.8,6.8
+2015,Essential hypertension and hypertensive renal disease,734,6.4,5.9,7
+2016,Essential hypertension and hypertensive renal disease,794,6.9,6.3,7.4
+2017,Essential hypertension and hypertensive renal disease,808,7,6.4,7.5
+2000,Stroke (cerebrovascular diseases),4319,48.8,47.3,50.3
+2001,Stroke (cerebrovascular diseases),4009,44.8,43.4,46.2
+2002,Stroke (cerebrovascular diseases),4017,44.3,42.9,45.7
+2003,Stroke (cerebrovascular diseases),3969,43.2,41.8,44.5
+2004,Stroke (cerebrovascular diseases),3784,40.8,39.5,42.2
+2005,Stroke (cerebrovascular diseases),3614,38.5,37.2,39.8
+2006,Stroke (cerebrovascular diseases),3470,36.5,35.2,37.7
+2007,Stroke (cerebrovascular diseases),3494,36.2,35,37.5
+2008,Stroke (cerebrovascular diseases),3266,33.3,32.1,34.6
+2009,Stroke (cerebrovascular diseases),3275,33,31.8,34.2
+2010,Stroke (cerebrovascular diseases),3404,33.2,32,34.4
+2011,Stroke (cerebrovascular diseases),3422,32.9,31.7,34
+2012,Stroke (cerebrovascular diseases),3439,32.5,31.3,33.7
+2013,Stroke (cerebrovascular diseases),3456,32.2,31,33.3
+2014,Stroke (cerebrovascular diseases),3419,31.2,30,32.3
+2015,Stroke (cerebrovascular diseases),3413,30.8,29.6,31.9
+2016,Stroke (cerebrovascular diseases),3401,30,28.9,31.1
+2017,Stroke (cerebrovascular diseases),3475,30.2,29.1,31.4
+2000,Atherosclerosis,393,4.4,4,4.9
+2001,Atherosclerosis,417,4.6,4.2,5.1
+2002,Atherosclerosis,420,4.6,4.2,5.1
+2003,Atherosclerosis,328,3.5,3.1,3.9
+2004,Atherosclerosis,317,3.4,3,3.8
+2005,Atherosclerosis,297,3.1,2.8,3.5
+2006,Atherosclerosis,208,2.2,1.8,2.5
+2007,Atherosclerosis,178,1.8,1.5,2.1
+2008,Atherosclerosis,199,2,1.7,2.3
+2009,Atherosclerosis,211,2,1.8,2.4
+2010,Atherosclerosis,207,2,1.7,2.2
+2011,Atherosclerosis,218,2,1.7,2.3
+2012,Atherosclerosis,203,1.8,1.6,2.1
+2013,Atherosclerosis,206,1.9,1.6,2.1
+2014,Atherosclerosis,180,1.6,1.3,1.9
+2015,Atherosclerosis,143,1.3,1,1.5
+2016,Atherosclerosis,151,1.3,1,1.5
+2017,Atherosclerosis,155,1.3,1.1,1.5
+2000,Aortic aneurysm and dissection,500,5.6,5.1,6.2
+2001,Aortic aneurysm and dissection,446,5,4.5,5.5
+2002,Aortic aneurysm and dissection,458,5.1,4.6,5.6
+2003,Aortic aneurysm and dissection,406,4.5,4,4.9
+2004,Aortic aneurysm and dissection,390,4.2,3.8,4.7
+2005,Aortic aneurysm and dissection,408,4.4,4,4.8
+2006,Aortic aneurysm and dissection,403,4.3,3.9,4.7
+2007,Aortic aneurysm and dissection,346,3.7,3.3,4.1
+2008,Aortic aneurysm and dissection,314,3.3,2.9,3.7
+2009,Aortic aneurysm and dissection,279,2.9,2.5,3.2
+2010,Aortic aneurysm and dissection,308,3.1,2.8,3.5
+2011,Aortic aneurysm and dissection,274,2.7,2.4,3
+2012,Aortic aneurysm and dissection,264,2.5,2.2,2.8
+2013,Aortic aneurysm and dissection,260,2.4,2.1,2.8
+2014,Aortic aneurysm and dissection,236,2.2,1.9,2.6
+2015,Aortic aneurysm and dissection,236,2.2,1.9,2.5
+2016,Aortic aneurysm and dissection,230,2.1,1.8,2.4
+2017,Aortic aneurysm and dissection,229,2.1,1.8,2.4
+2000,Influenza and pneumonia,2045,23.1,22.1,24.1
+2001,Influenza and pneumonia,1894,21.1,20.2,22.1
+2002,Influenza and pneumonia,1974,21.8,20.8,22.7
+2003,Influenza and pneumonia,1824,19.8,18.9,20.7
+2004,Influenza and pneumonia,1587,17.1,16.2,18
+2005,Influenza and pneumonia,1637,17.3,16.4,18.2
+2006,Influenza and pneumonia,1317,13.8,13,14.6
+2007,Influenza and pneumonia,1343,13.8,13,14.6
+2008,Influenza and pneumonia,1414,14.3,13.5,15.1
+2009,Influenza and pneumonia,1332,13.4,12.6,14.1
+2010,Influenza and pneumonia,1129,10.9,10.2,11.6
+2011,Influenza and pneumonia,1258,12.1,11.4,12.8
+2012,Influenza and pneumonia,1131,10.5,9.9,11.2
+2013,Influenza and pneumonia,1356,12.5,11.8,13.2
+2014,Influenza and pneumonia,1234,11.2,10.5,11.8
+2015,Influenza and pneumonia,1402,12.4,11.7,13.1
+2016,Influenza and pneumonia,1208,10.6,9.9,11.3
+2017,Influenza and pneumonia,1337,11.7,11,12.4
+2000,Acute bronchitis and bronchiolitis,8,,0,0.2
+2001,Acute bronchitis and bronchiolitis,9,,0,0.2
+2002,Acute bronchitis and bronchiolitis,2,,0,0
+2003,Acute bronchitis and bronchiolitis,3,,0,0.1
+2004,Acute bronchitis and bronchiolitis,8,,0,0.2
+2005,Acute bronchitis and bronchiolitis,7,,0,0.1
+2006,Acute bronchitis and bronchiolitis,2,,0,0.1
+2007,Acute bronchitis and bronchiolitis,9,,0,0.2
+2008,Acute bronchitis and bronchiolitis,6,,0,0.1
+2009,Acute bronchitis and bronchiolitis,4,,0,0.1
+2010,Acute bronchitis and bronchiolitis,3,,0,0.1
+2011,Acute bronchitis and bronchiolitis,4,,0,0.1
+2012,Acute bronchitis and bronchiolitis,3,,0,0.1
+2013,Acute bronchitis and bronchiolitis,11,,0,0.2
+2014,Acute bronchitis and bronchiolitis,7,,0,0.1
+2015,Acute bronchitis and bronchiolitis,6,,0,0.1
+2016,Acute bronchitis and bronchiolitis,14,,0.1,0.2
+2017,Acute bronchitis and bronchiolitis,4,,0,0.1
+2000,Chronic lower respiratory diseases,3008,34,32.7,35.2
+2001,Chronic lower respiratory diseases,2912,32.6,31.4,33.9
+2002,Chronic lower respiratory diseases,2887,32,30.8,33.2
+2003,Chronic lower respiratory diseases,2911,31.9,30.7,33.1
+2004,Chronic lower respiratory diseases,3037,33.1,31.9,34.3
+2005,Chronic lower respiratory diseases,3149,34,32.8,35.3
+2006,Chronic lower respiratory diseases,2862,30.6,29.4,31.8
+2007,Chronic lower respiratory diseases,2992,31.5,30.4,32.7
+2008,Chronic lower respiratory diseases,3281,34.1,32.9,35.4
+2009,Chronic lower respiratory diseases,3154,32.3,31.2,33.5
+2010,Chronic lower respiratory diseases,3108,31.2,30.1,32.4
+2011,Chronic lower respiratory diseases,3159,31.2,30,32.3
+2012,Chronic lower respiratory diseases,3273,31.5,30.4,32.7
+2013,Chronic lower respiratory diseases,3245,30.9,29.7,32
+2014,Chronic lower respiratory diseases,3048,28.3,27.2,29.4
+2015,Chronic lower respiratory diseases,3202,29.3,28.2,30.4
+2016,Chronic lower respiratory diseases,3065,27.6,26.5,28.7
+2017,Chronic lower respiratory diseases,3228,28.7,27.6,29.8
+2000,Pneumoconioses and chemical effects,42,0.5,0.3,0.6
+2001,Pneumoconioses and chemical effects,42,0.5,0.3,0.6
+2002,Pneumoconioses and chemical effects,37,0.4,0.3,0.5
+2003,Pneumoconioses and chemical effects,36,0.4,0.3,0.5
+2004,Pneumoconioses and chemical effects,26,0.3,0.2,0.4
+2005,Pneumoconioses and chemical effects,38,0.4,0.3,0.6
+2006,Pneumoconioses and chemical effects,25,0.3,0.2,0.4
+2007,Pneumoconioses and chemical effects,34,0.4,0.2,0.5
+2008,Pneumoconioses and chemical effects,30,0.3,0.2,0.4
+2009,Pneumoconioses and chemical effects,16,,0.1,0.3
+2010,Pneumoconioses and chemical effects,27,0.3,0.2,0.4
+2011,Pneumoconioses and chemical effects,27,0.3,0.2,0.4
+2012,Pneumoconioses and chemical effects,19,,0.1,0.3
+2013,Pneumoconioses and chemical effects,16,,0.1,0.2
+2014,Pneumoconioses and chemical effects,23,0.2,0.1,0.3
+2015,Pneumoconioses and chemical effects,16,,0.1,0.2
+2016,Pneumoconioses and chemical effects,25,0.2,0.1,0.3
+2017,Pneumoconioses and chemical effects,20,0.2,0.1,0.3
+2000,Pneumonitis due to solids and liquids,574,6.5,5.9,7
+2001,Pneumonitis due to solids and liquids,569,6.3,5.8,6.9
+2002,Pneumonitis due to solids and liquids,628,6.9,6.4,7.5
+2003,Pneumonitis due to solids and liquids,564,6.1,5.6,6.6
+2004,Pneumonitis due to solids and liquids,527,5.7,5.2,6.2
+2005,Pneumonitis due to solids and liquids,545,5.8,5.2,6.3
+2006,Pneumonitis due to solids and liquids,513,5.3,4.8,5.8
+2007,Pneumonitis due to solids and liquids,557,5.7,5.2,6.2
+2008,Pneumonitis due to solids and liquids,498,5,4.6,5.5
+2009,Pneumonitis due to solids and liquids,516,5.1,4.6,5.6
+2010,Pneumonitis due to solids and liquids,512,5,4.5,5.4
+2011,Pneumonitis due to solids and liquids,574,5.4,5,5.9
+2012,Pneumonitis due to solids and liquids,575,5.3,4.8,5.8
+2013,Pneumonitis due to solids and liquids,640,5.8,5.3,6.3
+2014,Pneumonitis due to solids and liquids,576,5.2,4.7,5.6
+2015,Pneumonitis due to solids and liquids,725,6.4,5.9,6.9
+2016,Pneumonitis due to solids and liquids,685,6,5.5,6.5
+2017,Pneumonitis due to solids and liquids,713,6.1,5.6,6.6
+2000,Peptic ulcer,128,1.4,1.2,1.7
+2001,Peptic ulcer,112,1.2,1,1.5
+2002,Peptic ulcer,94,1,0.8,1.2
+2003,Peptic ulcer,84,0.9,0.7,1.1
+2004,Peptic ulcer,74,0.8,0.6,1
+2005,Peptic ulcer,86,0.9,0.7,1.1
+2006,Peptic ulcer,55,0.6,0.4,0.7
+2007,Peptic ulcer,56,0.6,0.4,0.8
+2008,Peptic ulcer,65,0.7,0.5,0.8
+2009,Peptic ulcer,60,0.6,0.4,0.8
+2010,Peptic ulcer,81,0.8,0.6,1
+2011,Peptic ulcer,78,0.7,0.6,0.9
+2012,Peptic ulcer,76,0.7,0.5,0.9
+2013,Peptic ulcer,67,0.6,0.5,0.8
+2014,Peptic ulcer,78,0.7,0.5,0.9
+2015,Peptic ulcer,72,0.6,0.5,0.8
+2016,Peptic ulcer,59,0.5,0.4,0.7
+2017,Peptic ulcer,79,0.7,0.5,0.8
+2000,Diseases of appendix,13,,0.1,0.2
+2001,Diseases of appendix,10,,0,0.2
+2002,Diseases of appendix,7,,0,0.1
+2003,Diseases of appendix,10,,0,0.2
+2004,Diseases of appendix,8,,0,0.2
+2005,Diseases of appendix,11,,0,0.2
+2006,Diseases of appendix,15,,0.1,0.2
+2007,Diseases of appendix,12,,0,0.2
+2008,Diseases of appendix,2,,0,0
+2009,Diseases of appendix,15,,0.1,0.2
+2010,Diseases of appendix,8,,0,0.1
+2011,Diseases of appendix,10,,0,0.2
+2012,Diseases of appendix,10,,0,0.2
+2013,Diseases of appendix,8,,0,0.1
+2014,Diseases of appendix,10,,0,0.2
+2015,Diseases of appendix,8,,0,0.1
+2016,Diseases of appendix,6,,0,0.1
+2017,Diseases of appendix,9,,0,0.1
+2000,Hernia,32,0.4,0.2,0.5
+2001,Hernia,47,0.5,0.4,0.7
+2002,Hernia,43,0.5,0.3,0.6
+2003,Hernia,34,0.4,0.2,0.5
+2004,Hernia,50,0.5,0.4,0.7
+2005,Hernia,36,0.4,0.2,0.5
+2006,Hernia,47,0.5,0.4,0.6
+2007,Hernia,38,0.4,0.3,0.5
+2008,Hernia,53,0.5,0.4,0.7
+2009,Hernia,43,0.4,0.3,0.6
+2010,Hernia,64,0.6,0.5,0.8
+2011,Hernia,52,0.5,0.3,0.6
+2012,Hernia,49,0.5,0.3,0.6
+2013,Hernia,47,0.4,0.3,0.6
+2014,Hernia,61,0.6,0.4,0.7
+2015,Hernia,55,0.5,0.4,0.6
+2016,Hernia,52,0.5,0.3,0.6
+2017,Hernia,53,0.5,0.3,0.6
+2000,Chronic liver disease and cirrhosis,766,8.7,8.1,9.4
+2001,Chronic liver disease and cirrhosis,778,8.8,8.1,9.4
+2002,Chronic liver disease and cirrhosis,730,8.1,7.5,8.7
+2003,Chronic liver disease and cirrhosis,776,8.5,7.9,9.2
+2004,Chronic liver disease and cirrhosis,705,7.6,7.1,8.2
+2005,Chronic liver disease and cirrhosis,730,7.8,7.3,8.4
+2006,Chronic liver disease and cirrhosis,674,7.2,6.6,7.7
+2007,Chronic liver disease and cirrhosis,646,6.8,6.2,7.3
+2008,Chronic liver disease and cirrhosis,707,7.3,6.7,7.9
+2009,Chronic liver disease and cirrhosis,750,7.7,7.1,8.3
+2010,Chronic liver disease and cirrhosis,733,7.3,6.7,7.8
+2011,Chronic liver disease and cirrhosis,784,7.6,7,8.2
+2012,Chronic liver disease and cirrhosis,721,7,6.5,7.6
+2013,Chronic liver disease and cirrhosis,795,7.5,7,8.1
+2014,Chronic liver disease and cirrhosis,794,7.5,6.9,8
+2015,Chronic liver disease and cirrhosis,782,7.3,6.7,7.8
+2016,Chronic liver disease and cirrhosis,801,7.3,6.8,7.9
+2017,Chronic liver disease and cirrhosis,797,7.3,6.8,7.9
+2000,Cholelithiasis and other disorders of gallbladder,79,0.9,0.7,1.1
+2001,Cholelithiasis and other disorders of gallbladder,90,1,0.8,1.2
+2002,Cholelithiasis and other disorders of gallbladder,82,0.9,0.7,1.1
+2003,Cholelithiasis and other disorders of gallbladder,82,0.9,0.7,1.1
+2004,Cholelithiasis and other disorders of gallbladder,86,0.9,0.7,1.1
+2005,Cholelithiasis and other disorders of gallbladder,96,1,0.8,1.2
+2006,Cholelithiasis and other disorders of gallbladder,92,1,0.8,1.2
+2007,Cholelithiasis and other disorders of gallbladder,89,0.9,0.7,1.1
+2008,Cholelithiasis and other disorders of gallbladder,90,0.9,0.7,1.1
+2009,Cholelithiasis and other disorders of gallbladder,92,0.9,0.7,1.1
+2010,Cholelithiasis and other disorders of gallbladder,95,0.9,0.7,1.1
+2011,Cholelithiasis and other disorders of gallbladder,102,1,0.8,1.2
+2012,Cholelithiasis and other disorders of gallbladder,109,1,0.8,1.2
+2013,Cholelithiasis and other disorders of gallbladder,81,0.8,0.6,0.9
+2014,Cholelithiasis and other disorders of gallbladder,76,0.7,0.5,0.9
+2015,Cholelithiasis and other disorders of gallbladder,85,0.8,0.6,1
+2016,Cholelithiasis and other disorders of gallbladder,94,0.8,0.6,1
+2017,Cholelithiasis and other disorders of gallbladder,93,0.8,0.6,1
+2000,"Nephritis, nephrotic syndrome and nephrosis",1496,16.9,16,17.8
+2001,"Nephritis, nephrotic syndrome and nephrosis",1496,16.8,15.9,17.6
+2002,"Nephritis, nephrotic syndrome and nephrosis",1663,18.4,17.5,19.3
+2003,"Nephritis, nephrotic syndrome and nephrosis",1699,18.6,17.6,19.5
+2004,"Nephritis, nephrotic syndrome and nephrosis",1626,17.6,16.7,18.5
+2005,"Nephritis, nephrotic syndrome and nephrosis",1598,17.2,16.3,18
+2006,"Nephritis, nephrotic syndrome and nephrosis",1645,17.4,16.5,18.3
+2007,"Nephritis, nephrotic syndrome and nephrosis",1690,17.6,16.7,18.4
+2008,"Nephritis, nephrotic syndrome and nephrosis",1715,17.6,16.8,18.5
+2009,"Nephritis, nephrotic syndrome and nephrosis",1711,17.3,16.5,18.2
+2010,"Nephritis, nephrotic syndrome and nephrosis",1582,15.5,14.7,16.4
+2011,"Nephritis, nephrotic syndrome and nephrosis",1492,14.5,13.7,15.3
+2012,"Nephritis, nephrotic syndrome and nephrosis",1431,13.5,12.8,14.3
+2013,"Nephritis, nephrotic syndrome and nephrosis",1400,13.1,12.3,13.8
+2014,"Nephritis, nephrotic syndrome and nephrosis",1502,13.7,13,14.5
+2015,"Nephritis, nephrotic syndrome and nephrosis",1582,14.3,13.5,15
+2016,"Nephritis, nephrotic syndrome and nephrosis",1535,13.6,12.9,14.4
+2017,"Nephritis, nephrotic syndrome and nephrosis",1591,13.9,13.1,14.7
+2000,Infections of kidney,9,,0,0.2
+2001,Infections of kidney,13,,0.1,0.2
+2002,Infections of kidney,10,,0,0.2
+2003,Infections of kidney,9,,0,0.2
+2004,Infections of kidney,13,,0.1,0.2
+2005,Infections of kidney,22,0.2,0.1,0.3
+2006,Infections of kidney,14,,0.1,0.2
+2007,Infections of kidney,7,,0,0.1
+2008,Infections of kidney,11,,0,0.2
+2009,Infections of kidney,17,,0.1,0.3
+2010,Infections of kidney,11,,0,0.2
+2011,Infections of kidney,8,,0,0.1
+2012,Infections of kidney,9,,0,0.2
+2013,Infections of kidney,14,,0.1,0.2
+2014,Infections of kidney,9,,0,0.1
+2015,Infections of kidney,8,,0,0.1
+2016,Infections of kidney,12,,0,0.2
+2017,Infections of kidney,4,,0,0.1
+2000,Hyperplasia of prostate,11,,0,0.2
+2001,Hyperplasia of prostate,9,,0,0.2
+2002,Hyperplasia of prostate,7,,0,0.1
+2003,Hyperplasia of prostate,9,,0,0.2
+2004,Hyperplasia of prostate,8,,0,0.2
+2005,Hyperplasia of prostate,11,,0,0.2
+2006,Hyperplasia of prostate,6,,0,0.1
+2007,Hyperplasia of prostate,15,,0.1,0.2
+2008,Hyperplasia of prostate,11,,0,0.2
+2009,Hyperplasia of prostate,5,,0,0.1
+2010,Hyperplasia of prostate,17,,0.1,0.3
+2011,Hyperplasia of prostate,11,,0,0.2
+2012,Hyperplasia of prostate,18,,0.1,0.2
+2013,Hyperplasia of prostate,12,,0,0.2
+2014,Hyperplasia of prostate,17,,0.1,0.2
+2015,Hyperplasia of prostate,16,,0.1,0.2
+2016,Hyperplasia of prostate,22,0.2,0.1,0.3
+2017,Hyperplasia of prostate,13,,0,0.2
+2000,Inflammatory diseases of female pelvic organs,4,,0,0.1
+2001,Inflammatory diseases of female pelvic organs,3,,0,0.1
+2003,Inflammatory diseases of female pelvic organs,7,,0,0.1
+2004,Inflammatory diseases of female pelvic organs,3,,0,0.1
+2005,Inflammatory diseases of female pelvic organs,1,,0,0
+2006,Inflammatory diseases of female pelvic organs,2,,0,0
+2007,Inflammatory diseases of female pelvic organs,2,,0,0
+2008,Inflammatory diseases of female pelvic organs,8,,0,0.1
+2009,Inflammatory diseases of female pelvic organs,2,,0,0
+2010,Inflammatory diseases of female pelvic organs,4,,0,0.1
+2011,Inflammatory diseases of female pelvic organs,8,,0,0.1
+2012,Inflammatory diseases of female pelvic organs,5,,0,0.1
+2013,Inflammatory diseases of female pelvic organs,5,,0,0.1
+2014,Inflammatory diseases of female pelvic organs,4,,0,0.1
+2015,Inflammatory diseases of female pelvic organs,3,,0,0.1
+2016,Inflammatory diseases of female pelvic organs,2,,0,0
+2017,Inflammatory diseases of female pelvic organs,3,,0,0.1
+2000,"Pregnancy, childbirth and the puerperium",12,,0.1,0.2
+2001,"Pregnancy, childbirth and the puerperium",10,,0,0.2
+2002,"Pregnancy, childbirth and the puerperium",7,,0,0.2
+2003,"Pregnancy, childbirth and the puerperium",10,,0,0.2
+2004,"Pregnancy, childbirth and the puerperium",40,0.5,0.3,0.6
+2005,"Pregnancy, childbirth and the puerperium",23,0.3,0.2,0.4
+2006,"Pregnancy, childbirth and the puerperium",32,0.4,0.3,0.5
+2007,"Pregnancy, childbirth and the puerperium",36,0.4,0.3,0.6
+2008,"Pregnancy, childbirth and the puerperium",28,0.3,0.2,0.5
+2009,"Pregnancy, childbirth and the puerperium",38,0.4,0.3,0.6
+2010,"Pregnancy, childbirth and the puerperium",30,0.4,0.2,0.5
+2011,"Pregnancy, childbirth and the puerperium",48,0.6,0.4,0.7
+2012,"Pregnancy, childbirth and the puerperium",36,0.4,0.3,0.6
+2013,"Pregnancy, childbirth and the puerperium",57,0.7,0.5,0.8
+2014,"Pregnancy, childbirth and the puerperium",55,0.7,0.5,0.8
+2015,"Pregnancy, childbirth and the puerperium",39,0.5,0.3,0.6
+2016,"Pregnancy, childbirth and the puerperium",43,0.5,0.4,0.6
+2017,"Pregnancy, childbirth and the puerperium",44,0.5,0.4,0.7
+2000,Certain conditions originating in the perinatal period,382,4.7,4.2,5.2
+2001,Certain conditions originating in the perinatal period,401,4.9,4.5,5.4
+2002,Certain conditions originating in the perinatal period,387,4.7,4.3,5.2
+2003,Certain conditions originating in the perinatal period,385,4.6,4.1,5
+2004,Certain conditions originating in the perinatal period,386,4.6,4.1,5
+2005,Certain conditions originating in the perinatal period,332,4.1,3.7,4.6
+2006,Certain conditions originating in the perinatal period,373,4.7,4.3,5.2
+2007,Certain conditions originating in the perinatal period,334,4.2,3.7,4.6
+2008,Certain conditions originating in the perinatal period,320,4,3.6,4.4
+2009,Certain conditions originating in the perinatal period,331,4.1,3.7,4.6
+2010,Certain conditions originating in the perinatal period,308,4,3.6,4.4
+2011,Certain conditions originating in the perinatal period,301,3.9,3.5,4.3
+2012,Certain conditions originating in the perinatal period,270,3.6,3.2,3.9
+2013,Certain conditions originating in the perinatal period,270,3.6,3.2,4
+2014,Certain conditions originating in the perinatal period,245,3.3,2.9,3.6
+2015,Certain conditions originating in the perinatal period,256,3.4,3,3.8
+2016,Certain conditions originating in the perinatal period,245,3.3,2.9,3.7
+2017,Certain conditions originating in the perinatal period,247,3.4,3,3.7
+2000,"Congenital malformations, deformations and chromosomal abnormalities",269,3.2,2.8,3.6
+2001,"Congenital malformations, deformations and chromosomal abnormalities",238,2.8,2.5,3.2
+2002,"Congenital malformations, deformations and chromosomal abnormalities",250,3,2.6,3.3
+2003,"Congenital malformations, deformations and chromosomal abnormalities",244,2.8,2.5,3.2
+2004,"Congenital malformations, deformations and chromosomal abnormalities",195,2.3,2,2.6
+2005,"Congenital malformations, deformations and chromosomal abnormalities",231,2.7,2.4,3.1
+2006,"Congenital malformations, deformations and chromosomal abnormalities",216,2.6,2.2,2.9
+2007,"Congenital malformations, deformations and chromosomal abnormalities",174,2,1.7,2.3
+2008,"Congenital malformations, deformations and chromosomal abnormalities",219,2.6,2.3,2.9
+2009,"Congenital malformations, deformations and chromosomal abnormalities",199,2.3,2,2.6
+2010,"Congenital malformations, deformations and chromosomal abnormalities",191,2.2,1.9,2.5
+2011,"Congenital malformations, deformations and chromosomal abnormalities",208,2.4,2.1,2.8
+2012,"Congenital malformations, deformations and chromosomal abnormalities",207,2.4,2.1,2.8
+2013,"Congenital malformations, deformations and chromosomal abnormalities",196,2.3,2,2.6
+2014,"Congenital malformations, deformations and chromosomal abnormalities",197,2.3,2,2.6
+2015,"Congenital malformations, deformations and chromosomal abnormalities",201,2.3,2,2.6
+2016,"Congenital malformations, deformations and chromosomal abnormalities",202,2.2,1.9,2.5
+2017,"Congenital malformations, deformations and chromosomal abnormalities",194,2.3,2,2.6
+2000,Unintentional injuries,2291,26.7,25.6,27.8
+2001,Unintentional injuries,2411,28,26.8,29.1
+2002,Unintentional injuries,2604,29.9,28.8,31.1
+2003,Unintentional injuries,2377,27.1,26,28.2
+2004,Unintentional injuries,2331,26.4,25.3,27.5
+2005,Unintentional injuries,2567,28.9,27.8,30
+2006,Unintentional injuries,2596,29.2,28.1,30.4
+2007,Unintentional injuries,2427,27.1,26,28.2
+2008,Unintentional injuries,2437,26.9,25.8,28
+2009,Unintentional injuries,2421,26.4,25.4,27.5
+2010,Unintentional injuries,2491,26.7,25.6,27.8
+2011,Unintentional injuries,2688,28.6,27.4,29.7
+2012,Unintentional injuries,2991,31.6,30.4,32.8
+2013,Unintentional injuries,3029,31.7,30.5,32.9
+2014,Unintentional injuries,2970,30.9,29.7,32
+2015,Unintentional injuries,3219,33.6,32.4,34.8
+2016,Unintentional injuries,3840,40.6,39.3,41.9
+2017,Unintentional injuries,4483,47.3,45.9,48.7
+2000,Suicide (intentional self-harm),562,6.6,6,7.1
+2001,Suicide (intentional self-harm),588,6.8,6.2,7.4
+2002,Suicide (intentional self-harm),556,6.4,5.8,6.9
+2003,Suicide (intentional self-harm),589,6.7,6.2,7.2
+2004,Suicide (intentional self-harm),600,6.9,6.3,7.4
+2005,Suicide (intentional self-harm),538,6.1,5.6,6.6
+2006,Suicide (intentional self-harm),585,6.6,6,7.1
+2007,Suicide (intentional self-harm),596,6.7,6.2,7.2
+2008,Suicide (intentional self-harm),616,6.8,6.3,7.4
+2009,Suicide (intentional self-harm),647,7.1,6.6,7.7
+2010,Suicide (intentional self-harm),719,7.8,7.2,8.3
+2011,Suicide (intentional self-harm),689,7.5,6.9,8
+2012,Suicide (intentional self-harm),683,7.4,6.8,8
+2013,Suicide (intentional self-harm),757,8,7.4,8.6
+2014,Suicide (intentional self-harm),786,8.4,7.8,9
+2015,Suicide (intentional self-harm),789,8.3,7.7,8.9
+2016,Suicide (intentional self-harm),688,7.2,6.6,7.7
+2017,Suicide (intentional self-harm),795,8.4,7.8,9
+2000,Homicide (assault),321,3.9,3.5,4.3
+2001,Homicide (assault),1051,12.2,11.5,13
+2002,Homicide (assault),333,4,3.6,4.4
+2003,Homicide (assault),423,5.1,4.6,5.6
+2004,Homicide (assault),405,4.9,4.4,5.3
+2005,Homicide (assault),427,5.2,4.7,5.6
+2006,Homicide (assault),450,5.4,5,6
+2007,Homicide (assault),403,4.9,4.4,5.4
+2008,Homicide (assault),377,4.5,4.1,5
+2009,Homicide (assault),340,4,3.6,4.5
+2010,Homicide (assault),390,4.6,4.2,5.1
+2011,Homicide (assault),413,4.9,4.5,5.4
+2012,Homicide (assault),405,4.8,4.3,5.2
+2013,Homicide (assault),419,4.9,4.4,5.4
+2014,Homicide (assault),373,4.4,4,4.9
+2015,Homicide (assault),388,4.5,4.1,5
+2016,Homicide (assault),395,4.6,4.2,5.1
+2017,Homicide (assault),352,4.1,3.7,4.5
+2000,Legal intervention,1,,0,0
+2001,Legal intervention,5,,0,0.1
+2002,Legal intervention,2,,0,0.1
+2003,Legal intervention,8,,0,0.2
+2004,Legal intervention,5,,0,0.1
+2005,Legal intervention,5,,0,0.1
+2006,Legal intervention,1,,0,0
+2007,Legal intervention,2,,0,0.1
+2008,Legal intervention,1,,0,0
+2009,Legal intervention,3,,0,0.1
+2010,Legal intervention,4,,0,0.1
+2011,Legal intervention,9,,0,0.2
+2012,Legal intervention,6,,0,0.1
+2013,Legal intervention,8,,0,0.2
+2014,Legal intervention,6,,0,0.1
+2015,Legal intervention,12,,0.1,0.2
+2016,Legal intervention,3,,0,0.1
+2017,Legal intervention,8,,0,0.2
+2002,Operations of war and their sequelae,1,,0,0
+2003,Operations of war and their sequelae,1,,0,0
+2006,Operations of war and their sequelae,1,,0,0
+2007,Operations of war and their sequelae,1,,0,0
+2012,Operations of war and their sequelae,1,,0,0
+2014,Operations of war and their sequelae,1,,0,0
+2017,Operations of war and their sequelae,1,,0,0
+2000,Complications of medical and surgical care,79,0.9,0.7,1.1
+2001,Complications of medical and surgical care,95,1.1,0.9,1.3
+2002,Complications of medical and surgical care,109,1.2,1,1.5
+2003,Complications of medical and surgical care,112,1.3,1,1.5
+2004,Complications of medical and surgical care,96,1.1,0.8,1.3
+2005,Complications of medical and surgical care,72,0.8,0.6,1
+2006,Complications of medical and surgical care,73,0.8,0.6,1
+2007,Complications of medical and surgical care,79,0.9,0.7,1.1
+2008,Complications of medical and surgical care,76,0.8,0.6,1
+2009,Complications of medical and surgical care,99,1.1,0.9,1.3
+2010,Complications of medical and surgical care,87,0.9,0.7,1.1
+2011,Complications of medical and surgical care,91,0.9,0.7,1.1
+2012,Complications of medical and surgical care,89,0.9,0.7,1.1
+2013,Complications of medical and surgical care,97,1,0.8,1.2
+2014,Complications of medical and surgical care,81,0.8,0.6,1
+2015,Complications of medical and surgical care,84,0.8,0.6,1
+2016,Complications of medical and surgical care,115,1.1,0.9,1.3
+2017,Complications of medical and surgical care,157,1.5,1.2,1.7
+2000,Other than 50 Rankable Causes (Not eligible for leading cause ranking),7339,83.6,81.6,85.5
+2001,Other than 50 Rankable Causes (Not eligible for leading cause ranking),7547,84.9,83,86.9
+2002,Other than 50 Rankable Causes (Not eligible for leading cause ranking),7537,83.6,81.7,85.6
+2003,Other than 50 Rankable Causes (Not eligible for leading cause ranking),8147,89.4,87.4,91.4
+2004,Other than 50 Rankable Causes (Not eligible for leading cause ranking),8387,91.3,89.3,93.3
+2005,Other than 50 Rankable Causes (Not eligible for leading cause ranking),8612,92.5,90.5,94.6
+2006,Other than 50 Rankable Causes (Not eligible for leading cause ranking),9457,100.1,98,102.2
+2007,Other than 50 Rankable Causes (Not eligible for leading cause ranking),9745,101.9,99.8,104
+2008,Other than 50 Rankable Causes (Not eligible for leading cause ranking),9852,101.1,99,103.2
+2009,Other than 50 Rankable Causes (Not eligible for leading cause ranking),9596,96.7,94.6,98.7
+2010,Other than 50 Rankable Causes (Not eligible for leading cause ranking),10171,99.6,97.5,101.6
+2011,Other than 50 Rankable Causes (Not eligible for leading cause ranking),11020,106.2,104,108.3
+2012,Other than 50 Rankable Causes (Not eligible for leading cause ranking),11421,107.2,105,109.3
+2013,Other than 50 Rankable Causes (Not eligible for leading cause ranking),11737,109,106.8,111.2
+2014,Other than 50 Rankable Causes (Not eligible for leading cause ranking),11936,109.4,107.3,111.6
+2015,Other than 50 Rankable Causes (Not eligible for leading cause ranking),11875,107.4,105.2,109.5
+2016,Other than 50 Rankable Causes (Not eligible for leading cause ranking),12338,110.4,108.2,112.5
+2017,Other than 50 Rankable Causes (Not eligible for leading cause ranking),12290,108.1,106,110.2
+2018,Salmonella infections,2,,0,0
+2018,Tuberculosis,10,,0,0.2
+2019,Tuberculosis,14,,0,0.2
+2019,Meningococcal infection,1,,0,0
+2018,Septicemia,1948,17,16.1,17.8
+2019,Septicemia,1948,16.8,15.9,17.6
+2018,Syphilis,2,,0,0
+2019,Arthropod-borne viral encephalitis,1,,0,0
+2018,Viral hepatitis,99,0.8,0.7,1
+2019,Viral hepatitis,76,0.6,0.5,0.8
+2018,HIV (human immunodeficiency virus) disease,184,1.7,1.4,2
+2019,HIV (human immunodeficiency virus) disease,178,1.6,1.4,1.9
+2018,Cancer (malignant neoplasms),16012,141.1,138.7,143.6
+2019,Cancer (malignant neoplasms),15466,134.5,132.1,136.9
+2018,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",457,4.1,3.6,4.5
+2019,"In situ neoplasms, benign neopl. & neopl. of uncertain or unknown behavior",469,4.1,3.6,4.5
+2018,Anemias,169,1.5,1.2,1.7
+2019,Anemias,168,1.4,1.2,1.7
+2018,Diabetes mellitus,1881,16.6,15.7,17.4
+2019,Diabetes mellitus,1915,16.6,15.7,17.4
+2018,Nutritional deficiencies,190,1.6,1.4,1.9
+2019,Nutritional deficiencies,212,1.8,1.5,2
+2018,Meningitis,8,,0,0.2
+2019,Meningitis,9,,0,0.1
+2018,Parkinson's disease,881,7.8,7.2,8.3
+2019,Parkinson's disease,848,7.4,6.8,7.9
+2018,Alzheimer's disease,2710,22.6,21.6,23.6
+2019,Alzheimer's disease,2606,21.5,20.6,22.5
+2018,Diseases of heart,19048,162.6,159.9,165.2
+2019,Diseases of heart,18440,155.6,153,158.2
+2018,Essential hypertension and hypertensive renal disease,752,6.4,5.9,6.9
+2019,Essential hypertension and hypertensive renal disease,883,7.5,6.9,8.1
+2018,Stroke (cerebrovascular diseases),3444,29.7,28.5,30.8
+2019,Stroke (cerebrovascular diseases),3469,29.6,28.5,30.7
+2018,Atherosclerosis,155,1.3,1.1,1.5
+2019,Atherosclerosis,154,1.3,1,1.5
+2018,Aortic aneurysm and dissection,237,2.1,1.8,2.4
+2019,Aortic aneurysm and dissection,250,2.2,1.9,2.5
+2018,Influenza and pneumonia,1465,12.5,11.8,13.3
+2019,Influenza and pneumonia,1247,10.7,10,11.4
+2018,Acute bronchitis and bronchiolitis,5,,0,0.1
+2019,Acute bronchitis and bronchiolitis,5,,0,0.1
+2018,Chronic lower respiratory diseases,3213,28,26.9,29.1
+2019,Chronic lower respiratory diseases,3024,26,25,27.1
+2018,Pneumoconioses and chemical effects,20,0.2,0.1,0.3
+2019,Pneumoconioses and chemical effects,19,,0.1,0.2
+2018,Pneumonitis due to solids and liquids,741,6.3,5.8,6.8
+2019,Pneumonitis due to solids and liquids,669,5.6,5.1,6.1
+2018,Peptic ulcer,67,0.6,0.4,0.8
+2019,Peptic ulcer,71,0.6,0.4,0.8
+2018,Diseases of appendix,10,,0,0.2
+2019,Diseases of appendix,9,,0,0.1
+2018,Hernia,44,0.4,0.2,0.5
+2019,Hernia,36,0.3,0.2,0.4
+2018,Chronic liver disease and cirrhosis,893,8.3,7.7,8.9
+2019,Chronic liver disease and cirrhosis,830,7.5,7,8.1
+2018,Cholelithiasis and other disorders of gallbladder,71,0.6,0.4,0.8
+2019,Cholelithiasis and other disorders of gallbladder,76,0.6,0.5,0.8
+2018,"Nephritis, nephrotic syndrome and nephrosis",1672,14.6,13.8,15.4
+2019,"Nephritis, nephrotic syndrome and nephrosis",1599,13.7,13,14.5
+2018,Infections of kidney,13,,0,0.2
+2019,Infections of kidney,18,,0.1,0.2
+2018,Hyperplasia of prostate,14,,0,0.2
+2019,Hyperplasia of prostate,16,,0.1,0.2
+2018,Inflammatory diseases of female pelvic organs,4,,0,0.1
+2019,Inflammatory diseases of female pelvic organs,4,,0,0.1
+2018,"Pregnancy, childbirth and the puerperium",35,0.5,0.3,0.6
+2019,"Pregnancy, childbirth and the puerperium",43,0.5,0.4,0.7
+2018,Certain conditions originating in the perinatal period,213,2.9,2.6,3.3
+2019,Certain conditions originating in the perinatal period,214,3,2.6,3.3
+2018,"Congenital malformations, deformations and chromosomal abnormalities",173,2,1.7,2.3
+2019,"Congenital malformations, deformations and chromosomal abnormalities",187,2.2,1.9,2.5
+2018,Unintentional injuries,4676,50.2,48.8,51.7
+2019,Unintentional injuries,4486,47.4,46,48.8
+2018,Suicide (intentional self-harm),778,8.3,7.7,8.9
+2019,Suicide (intentional self-harm),728,7.6,7.1,8.2
+2018,Homicide (assault),311,3.7,3.3,4.1
+2019,Homicide (assault),279,3.3,3,3.7
+2018,Legal intervention,6,,0,0.1
+2019,Legal intervention,2,,0,0.1
+2019,Operations of war and their sequelae,1,,0,0
+2018,Complications of medical and surgical care,117,1.1,0.9,1.3
+2019,Complications of medical and surgical care,132,1.2,1,1.4
+2018,Enterocolitis due to Clostridium difficile,145,1.3,1,1.5
+2019,Enterocolitis due to Clostridium difficile,145,1.3,1,1.5
+2018,Other than 51 Rankable Causes (Not eligible for leading cause ranking),12927,112.9,110.7,115.1
+2019,Other than 51 Rankable Causes (Not eligible for leading cause ranking),13598,118,115.8,120.3
